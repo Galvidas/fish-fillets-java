@@ -1,0 +1,15 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Compiled files
+*.class
+bin/
+out/
+
+# Mac junk
+.DS_Store
+__MACOSX/
+
+score.txt
+POO-Projeto.iml
